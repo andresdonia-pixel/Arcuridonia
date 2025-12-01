@@ -7,7 +7,7 @@
     
     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">
     
-    <style>
+    <style> 
         /* ESTILOS GENERALES Y RESETS */
         :root {
             --color-principal: #384F41; /* Verde Oliva Oscuro, elegante */
